@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href='https://github.com/jonasaacampos'>
-      <img alt="" src="https://img.shields.io/static/v1?color=blue&label=powerbi&message=FrontEnd-developer&style=for-the-badge&logo=Powerbi"/>
+      <img alt="" src="https://img.shields.io/static/v1?color=blue&label=powerbi&message=Data Analysis&style=for-the-badge&logo=Powerbi"/>
       </a>
 </p>
 
